@@ -60,9 +60,9 @@ A projectből a dist mappát kitéve el tudjuk indítani a projectet bármely sz
 
 A termékek menüpont alatt érhetjük a meglévő termékeket, illetve vehetünk fel újakat. A megtekint gombbal tekinthetjük meg az adott feladatot, és a töröl gombbal törölhetjük is azt.
 
-Új termék felvétele: A leirást egy legördülő menü segítségével választhatjuk ki. 
-Megtekint: Az adott feladatról egy részletes leírást kapunk.
-Töröl: A töröl gombbal tudjuk törölni a feladatot.
+* Új termék felvétele: A leirást egy legördülő menü segítségével választhatjuk ki. 
+* Megtekint: Az adott feladatról egy részletes leírást kapunk.
+* Töröl: A töröl gombbal tudjuk törölni a feladatot.
 
 ###Szerepkörök
 
