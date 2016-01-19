@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/tmp/jshinter-output_path-XvfOvFHQ.tmp/integration/pods/components/error-list/component-test.jshint.js

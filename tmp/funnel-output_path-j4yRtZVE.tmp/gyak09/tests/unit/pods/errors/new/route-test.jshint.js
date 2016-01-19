@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/tmp/jshinter-output_path-XvfOvFHQ.tmp/unit/pods/errors/new/route-test.jshint.js

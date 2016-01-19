@@ -1264,7 +1264,7 @@ define('gyak09/tests/app.jshint', function () {
 
   QUnit.module('JSHint - .');
   QUnit.test('app.js should pass jshint', function(assert) { 
-    assert.ok(true, 'app.js should pass jshint.'); 
+    assert.ok(false, 'app.js should pass jshint.\napp.js: line 1, col 1, \'import\' is only available in ES6 (use esnext option).\napp.js: line 2, col 1, \'import\' is only available in ES6 (use esnext option).\napp.js: line 3, col 1, \'import\' is only available in ES6 (use esnext option).\napp.js: line 4, col 1, \'import\' is only available in ES6 (use esnext option).\napp.js: line 18, col 1, \'export\' is only available in ES6 (use esnext option).\n\n5 errors'); 
   });
 
 });
@@ -1760,7 +1760,7 @@ define('gyak09/tests/pods/application/adapter.jshint', function () {
 
   QUnit.module('JSHint - pods/application');
   QUnit.test('pods/application/adapter.js should pass jshint', function(assert) { 
-    assert.ok(true, 'pods/application/adapter.js should pass jshint.'); 
+    assert.ok(false, 'pods/application/adapter.js should pass jshint.\npods/application/adapter.js: line 1, col 1, \'import\' is only available in ES6 (use esnext option).\npods/application/adapter.js: line 3, col 1, \'export\' is only available in ES6 (use esnext option).\n\n2 errors'); 
   });
 
 });
@@ -1770,7 +1770,7 @@ define('gyak09/tests/pods/components/error-detail/component.jshint', function ()
 
   QUnit.module('JSHint - pods/components/error-detail');
   QUnit.test('pods/components/error-detail/component.js should pass jshint', function(assert) { 
-    assert.ok(true, 'pods/components/error-detail/component.js should pass jshint.'); 
+    assert.ok(false, 'pods/components/error-detail/component.js should pass jshint.\npods/components/error-detail/component.js: line 1, col 1, \'import\' is only available in ES6 (use esnext option).\npods/components/error-detail/component.js: line 3, col 1, \'export\' is only available in ES6 (use esnext option).\n\n2 errors'); 
   });
 
 });
@@ -1780,7 +1780,7 @@ define('gyak09/tests/pods/components/error-list/component.jshint', function () {
 
   QUnit.module('JSHint - pods/components/error-list');
   QUnit.test('pods/components/error-list/component.js should pass jshint', function(assert) { 
-    assert.ok(true, 'pods/components/error-list/component.js should pass jshint.'); 
+    assert.ok(false, 'pods/components/error-list/component.js should pass jshint.\npods/components/error-list/component.js: line 1, col 1, \'import\' is only available in ES6 (use esnext option).\npods/components/error-list/component.js: line 3, col 1, \'export\' is only available in ES6 (use esnext option).\npods/components/error-list/component.js: line 5, col 9, \'concise methods\' is available in ES6 (use esnext option) or Mozilla JS extensions (use moz).\n\n3 errors'); 
   });
 
 });
@@ -1790,7 +1790,7 @@ define('gyak09/tests/pods/components/new-error-form/component.jshint', function 
 
   QUnit.module('JSHint - pods/components/new-error-form');
   QUnit.test('pods/components/new-error-form/component.js should pass jshint', function(assert) { 
-    assert.ok(true, 'pods/components/new-error-form/component.js should pass jshint.'); 
+    assert.ok(false, 'pods/components/new-error-form/component.js should pass jshint.\npods/components/new-error-form/component.js: line 1, col 1, \'import\' is only available in ES6 (use esnext option).\npods/components/new-error-form/component.js: line 3, col 1, \'export\' is only available in ES6 (use esnext option).\npods/components/new-error-form/component.js: line 7, col 9, \'concise methods\' is available in ES6 (use esnext option) or Mozilla JS extensions (use moz).\npods/components/new-error-form/component.js: line 17, col 5, \'concise methods\' is available in ES6 (use esnext option) or Mozilla JS extensions (use moz).\n\n4 errors'); 
   });
 
 });
@@ -1800,7 +1800,7 @@ define('gyak09/tests/pods/error/model.jshint', function () {
 
   QUnit.module('JSHint - pods/error');
   QUnit.test('pods/error/model.js should pass jshint', function(assert) { 
-    assert.ok(true, 'pods/error/model.js should pass jshint.'); 
+    assert.ok(false, 'pods/error/model.js should pass jshint.\npods/error/model.js: line 1, col 1, \'import\' is only available in ES6 (use esnext option).\npods/error/model.js: line 3, col 1, \'const\' is available in ES6 (use esnext option) or Mozilla JS extensions (use moz).\npods/error/model.js: line 27, col 1, \'export\' is only available in ES6 (use esnext option).\n\n3 errors'); 
   });
 
 });
@@ -1810,7 +1810,7 @@ define('gyak09/tests/pods/errors/list/controller.jshint', function () {
 
   QUnit.module('JSHint - pods/errors/list');
   QUnit.test('pods/errors/list/controller.js should pass jshint', function(assert) { 
-    assert.ok(true, 'pods/errors/list/controller.js should pass jshint.'); 
+    assert.ok(false, 'pods/errors/list/controller.js should pass jshint.\npods/errors/list/controller.js: line 1, col 1, \'import\' is only available in ES6 (use esnext option).\npods/errors/list/controller.js: line 3, col 1, \'export\' is only available in ES6 (use esnext option).\n\n2 errors'); 
   });
 
 });
@@ -1820,7 +1820,7 @@ define('gyak09/tests/pods/errors/list/route.jshint', function () {
 
   QUnit.module('JSHint - pods/errors/list');
   QUnit.test('pods/errors/list/route.js should pass jshint', function(assert) { 
-    assert.ok(true, 'pods/errors/list/route.js should pass jshint.'); 
+    assert.ok(false, 'pods/errors/list/route.js should pass jshint.\npods/errors/list/route.js: line 1, col 1, \'import\' is only available in ES6 (use esnext option).\npods/errors/list/route.js: line 3, col 1, \'export\' is only available in ES6 (use esnext option).\npods/errors/list/route.js: line 4, col 5, \'concise methods\' is available in ES6 (use esnext option) or Mozilla JS extensions (use moz).\n\n3 errors'); 
   });
 
 });
@@ -1830,7 +1830,7 @@ define('gyak09/tests/pods/errors/new/controller.jshint', function () {
 
   QUnit.module('JSHint - pods/errors/new');
   QUnit.test('pods/errors/new/controller.js should pass jshint', function(assert) { 
-    assert.ok(true, 'pods/errors/new/controller.js should pass jshint.'); 
+    assert.ok(false, 'pods/errors/new/controller.js should pass jshint.\npods/errors/new/controller.js: line 1, col 1, \'import\' is only available in ES6 (use esnext option).\npods/errors/new/controller.js: line 3, col 1, \'export\' is only available in ES6 (use esnext option).\npods/errors/new/controller.js: line 5, col 9, \'concise methods\' is available in ES6 (use esnext option) or Mozilla JS extensions (use moz).\n\n3 errors'); 
   });
 
 });
@@ -1840,7 +1840,7 @@ define('gyak09/tests/pods/errors/new/route.jshint', function () {
 
   QUnit.module('JSHint - pods/errors/new');
   QUnit.test('pods/errors/new/route.js should pass jshint', function(assert) { 
-    assert.ok(true, 'pods/errors/new/route.js should pass jshint.'); 
+    assert.ok(false, 'pods/errors/new/route.js should pass jshint.\npods/errors/new/route.js: line 1, col 1, \'import\' is only available in ES6 (use esnext option).\npods/errors/new/route.js: line 3, col 1, \'export\' is only available in ES6 (use esnext option).\n\n2 errors'); 
   });
 
 });
@@ -1850,7 +1850,7 @@ define('gyak09/tests/pods/errors/view/route.jshint', function () {
 
   QUnit.module('JSHint - pods/errors/view');
   QUnit.test('pods/errors/view/route.js should pass jshint', function(assert) { 
-    assert.ok(true, 'pods/errors/view/route.js should pass jshint.'); 
+    assert.ok(false, 'pods/errors/view/route.js should pass jshint.\npods/errors/view/route.js: line 1, col 1, \'import\' is only available in ES6 (use esnext option).\npods/errors/view/route.js: line 3, col 1, \'export\' is only available in ES6 (use esnext option).\n\n2 errors'); 
   });
 
 });
@@ -1860,7 +1860,7 @@ define('gyak09/tests/router.jshint', function () {
 
   QUnit.module('JSHint - .');
   QUnit.test('router.js should pass jshint', function(assert) { 
-    assert.ok(true, 'router.js should pass jshint.'); 
+    assert.ok(false, 'router.js should pass jshint.\nrouter.js: line 1, col 1, \'import\' is only available in ES6 (use esnext option).\nrouter.js: line 2, col 1, \'import\' is only available in ES6 (use esnext option).\nrouter.js: line 16, col 1, \'export\' is only available in ES6 (use esnext option).\n\n3 errors'); 
   });
 
 });
@@ -2088,7 +2088,7 @@ catch(err) {
 if (runningTests) {
   require("gyak09/tests/test-helper");
 } else {
-  require("gyak09/app")["default"].create({"name":"gyak09","version":"0.0.0+f2d0bd1a"});
+  require("gyak09/app")["default"].create({"name":"gyak09","version":"0.0.0+"});
 }
 
 /* jshint ignore:end */
