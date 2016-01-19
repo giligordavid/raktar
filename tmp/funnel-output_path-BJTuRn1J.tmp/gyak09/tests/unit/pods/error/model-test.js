@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/targykezelo/tmp/babel-output_path-X29ZY2qu.tmp/gyak09/tests/unit/pods/error/model-test.js

@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/gyak09/tmp/babel-output_path-O8pOs14G.tmp/gyak09/tests/integration/pods/components/new-error-form/component-test.js

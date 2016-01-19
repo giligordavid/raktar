@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/csaladitodo/tmp/babel-output_path-efQTYMRU.tmp/gyak09/tests/unit/pods/error/model-test.js

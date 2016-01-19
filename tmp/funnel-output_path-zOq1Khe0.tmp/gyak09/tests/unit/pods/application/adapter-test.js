@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/gyak09/tmp/babel-output_path-YDw8S1yQ.tmp/gyak09/tests/unit/pods/application/adapter-test.js

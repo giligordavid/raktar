@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/csaladitodo/tmp/jshinter-output_path-euVAW1gG.tmp/unit/pods/errors/new/route-test.jshint.js

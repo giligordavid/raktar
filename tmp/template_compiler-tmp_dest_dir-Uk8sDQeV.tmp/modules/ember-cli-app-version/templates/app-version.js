@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/targykezelo/tmp/template_compiler-tmp_cache_dir-MD99FDOL.tmp/0

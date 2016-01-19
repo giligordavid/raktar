@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/targykezelo/tmp/jshinter-output_path-DEMzuOVO.tmp/helpers/resolver.jshint.js

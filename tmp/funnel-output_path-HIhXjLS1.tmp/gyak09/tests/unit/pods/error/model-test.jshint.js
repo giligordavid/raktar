@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/csaladitodo/tmp/jshinter-output_path-euVAW1gG.tmp/unit/pods/error/model-test.jshint.js

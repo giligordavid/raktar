@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/gyak09/tmp/jshinter-output_path-vG83QGHx.tmp/test-helper.jshint.js

@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/csaladitodo/tmp/jshinter-output_path-kJSlffeU.tmp/integration/pods/components/error-list/component-test.jshint.js

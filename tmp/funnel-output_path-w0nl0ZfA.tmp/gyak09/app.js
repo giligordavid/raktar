@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/gyak09/tmp/babel-output_path-U4EPOqc5.tmp/gyak09/app.js

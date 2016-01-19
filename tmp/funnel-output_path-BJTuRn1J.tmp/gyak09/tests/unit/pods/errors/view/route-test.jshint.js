@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/targykezelo/tmp/jshinter-output_path-DEMzuOVO.tmp/unit/pods/errors/view/route-test.jshint.js

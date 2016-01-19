@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/gyak09/tmp/jshinter-output_path-2pHIxNIv.tmp/unit/pods/errors/view/route-test.jshint.js

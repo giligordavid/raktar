@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/targykezelo/tmp/funnel-input_base_path-6DCxxqgD.tmp/0/

@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/targykezelo/tmp/jshinter-output_path-DA6VzHJQ.tmp/unit/pods/errors/new/controller-test.jshint.js

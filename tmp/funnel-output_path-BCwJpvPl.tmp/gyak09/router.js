@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/gyak09/tmp/babel-output_path-moxGNPXr.tmp/gyak09/router.js

@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/csaladitodo/tmp/funnel-input_base_path-LsO9sb1S.tmp/0/bower_components/ember-cli-test-loader/test-loader.js
