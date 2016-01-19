@@ -1,9 +1,9 @@
 #Giligor Dávid
 #HSYGGS
-#Alkalmazások fejlesztése harmadik beadandó
+#Alkalmazások fejlesztése harmadik beadandó - Raktár kezelő
 ##2016.01.17
 
-###A feladat leírása
+###Követelményanalízis
 
 Egy webes vastagkliens, azaz egyoldalas alkalmazás készítése Ember.js segítségével az utolsó beadandó. Feladatot illetően lehet a szerveroldali alkalmazásnak egy kliensoldali változata, de másik feladat is választható. A feladatnak mininálisan tartalmaznia kell:
 
@@ -19,18 +19,36 @@ A formai követelményeknek megfelelően kell elkészíteni, dokumentálni és k
 
 A feladatötletek közül a Raktár kezelő alaklmazást választottam.
 
+###Tervezés
+##Osztálymodell
+![osztálymodell](kepek/model.png)
+
+##Felhasználói felület modell
+![főoldal](kepek/fooldal.png)
+
+![termékek](kepek/termekek.png)
+
+![megtekint](kepek/megtek.png)
+
+![új termék](kepek/ujterm.png)
+
+
+##Oldaltérkép
+
+Főoldal(Termékkezelő alkalmazás)
+  -Termékek
+  -Új termék felvétele
+  
+##Végpontok
+![vegpontok](kepek/vegpontok.png)
+
 ###Futattás
 
 Githubról le kell tölteni a projektet, majd a cloud9 ide segítsévégel elindítani (támogatja a rest_api-t és az ember.js-t).
 Kettő workspacet létrehozunk egyet a szervernek egyet pedig a projectnek, elindítjuk a server.js-t, majd a projecten belül ./node_modules/.bin/ember serve paranccsal szolgáljuk ki.
 A projectből a dist mappát kitéve el tudjuk indítani a projectet bármely szerverről.
 
-###Végpontok
 
-Főoldal: http://raktar-giligordavid.c9users.io/
-Termékek: http://raktar-giligordavid.c9users.io/errors/list
-Új feladat felvétele: http://raktar-giligordavid.c9users.io/errors/new
-Megtekint: http://raktar-giligordavid.c9users.io/errors/
 
 ###Adatmodell
 
@@ -50,6 +68,8 @@ Egyetlen szerepkör van, mégpedig a látogató ő hozzá fér mindenhez.
 
 ###Mappaszerkezet
 
+![Mappák](kepek/mappa.png)
+
 * README.md
 * app/
 * bower.json
@@ -64,6 +84,7 @@ Egyetlen szerepkör van, mégpedig a látogató ő hozzá fér mindenhez.
 * tests/
 * tmp/
 * vendor/
+* 
 
 
 
