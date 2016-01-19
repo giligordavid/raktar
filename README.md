@@ -7,14 +7,14 @@
 
 Egy webes vastagkliens, azaz egyoldalas alkalmazás készítése Ember.js segítségével az utolsó beadandó. Feladatot illetően lehet a szerveroldali alkalmazásnak egy kliensoldali változata, de másik feladat is választható. A feladatnak mininálisan tartalmaznia kell:
 
-legalább két modellt, egy-sok kapcsolatban
-legalább 1 űrlapot
-legalább 1 listázó oldalt
-legyen lehetőség új felvételére
-legyen lehetőség meglévő szerkesztésére
-legyen lehetőség meglévő törlésére
-REST API végpont kialakítása
-szerveroldali perzisztálás fájlba
+* legalább két modellt, egy-sok kapcsolatban
+* legalább 1 űrlapot
+* legalább 1 listázó oldalt
+* legyen lehetőség új felvételére
+* legyen lehetőség meglévő szerkesztésére
+* legyen lehetőség meglévő törlésére
+* REST API végpont kialakítása
+* szerveroldali perzisztálás fájlba
 A formai követelményeknek megfelelően kell elkészíteni, dokumentálni és közzétenni. Az órai gyakorlatnak megfelelően ez új workspace-ek létrehozását jelenti Cloud9 oldalon, és a Github-on is külön kódtárba dolgozzunk. A dokumentációval kapcsolatos elvárások a formai követelményeknél írtaknak megfelelő (minden kell). A Heroku-n való közzététel opcionális.
 
 A feladatötletek közül a Raktár kezelő alaklmazást választottam.
@@ -35,9 +35,9 @@ A feladatötletek közül a Raktár kezelő alaklmazást választottam.
 
 ##Oldaltérkép
 
-Főoldal(Termékkezelő alkalmazás)
-  -Termékek
-  -Új termék felvétele
+* Főoldal(Termékkezelő alkalmazás)
+ * -Termékek
+ * -Új termék felvétele
   
 ##Végpontok
 ![vegpontok](kepek/vegpontok.png)
@@ -52,7 +52,9 @@ A projectből a dist mappát kitéve el tudjuk indítani a projectet bármely sz
 
 ###Adatmodell
 
-Hozzáadás dátuma, Megnevezés, Időpont
+* Hozzáadás dátuma
+* Megnevezés
+* Időpont
 
 ###Használati útmutató
 
